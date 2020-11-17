@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Task5.1</string>
+    <string-array name="Countries">
+        <item> "Egypt"</item>
+         <item> "Palestine"</item>
+        <item> "Saudi Arabia"</item>
+         <item> "Libya"</item>
+         <item> "Bahrain"</item>
+         <item> "Oman"</item>
+         <item> "Algeria"</item>
+         <item> "Iraq"</item>
+           <item> "Tunisia"</item>
+           <item> "Morocco"</item>
+        <item> "Qatar"</item>
+    </string-array>
+</resources>
